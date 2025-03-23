@@ -1,0 +1,24 @@
+body {
+    margin-left: 1em;
+    color: snow;
+    background-color: #1e1e1e;
+}
+
+h3 {
+    margin: 1em 0;
+}
+
+form {
+    margin-bottom: 1em;
+}
+
+ul {
+    width: fit-content;
+    min-width: 20em;
+}
+
+.list-group-item {
+    color: snow;
+    border-color: #555;
+    background-color: #161621;
+}
